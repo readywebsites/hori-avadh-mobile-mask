@@ -1,11 +1,11 @@
-import riversideImage from "../src/assets/images/resi-ongoing/01-riverside.webp";
-import berthinaImage from "../src/assets/images/resi-ongoing/02-berthina.webp";
-import onicaImage from "../src/assets/images/resi-ongoing/03-onica.webp";
-import habitatImage from "../src/assets/images/resi-ongoing/04-habitat.webp";
-import holiconiaImage from "../src/assets/images/resi-complete/01-holiconia.webp";
-import copperstoneImage from "../src/assets/images/resi-complete/02-copperstone.webp";
-import carolinaImage from "../src/assets/images/resi-complete/03-carolina.webp";
-import regeliaImage from "../src/assets/images/resi-complete/04-regelia.webp";
+import riversideImage from "../assets/images/resi-ongoing/01-riverside.webp";
+import berthinaImage from "../assets/images/resi-ongoing/02-berthina.webp";
+import onicaImage from "../assets/images/resi-ongoing/03-onica.webp";
+import habitatImage from "../assets/images/resi-ongoing/04-habitat.webp";
+import holiconiaImage from "../assets/images/resi-complete/01-holiconia.webp";
+import copperstoneImage from "../assets/images/resi-complete/02-copperstone.webp";
+import carolinaImage from "../assets/images/resi-complete/03-carolina.webp";
+import regeliaImage from "../assets/images/resi-complete/04-regelia.webp";
 
 export const onGoingProjects = [
   {
