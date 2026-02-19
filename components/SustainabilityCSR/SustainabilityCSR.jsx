@@ -102,7 +102,7 @@ const SustainabilityCSR = () => {
               style={{
                 width: '100%',
                 height: '100%',
-                backgroundImage: 'url("../assets/images/scroll-images/04-enviromental-bg.webp")' // Replace with actual image path
+                backgroundImage: 'url("../../src/assets/images/scroll-images/04-enviromental-bg.webp")',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
               }}

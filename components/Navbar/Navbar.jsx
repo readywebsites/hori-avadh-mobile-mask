@@ -4,7 +4,7 @@ import useSmartSubmenus from '../../hooks/useSmartSubmenus.js';
 import ProjectCardMini from '../ProjectCardMini/ProjectCardMini';
 import useDebounce from '../../hooks/useDebounce.js';
 import { navData as mockNavData } from '../navData.js'; // Use mock data as a fallback
-import avadhLogo from '../../assets/images/logo/logo_01_trans.png';
+import avadhLogo from '../../src/assets/images/logo/logo_01_trans.png';
 import MobileHeader from '../MobileHeader/MobileHeader';
 
 const Navbar = ({

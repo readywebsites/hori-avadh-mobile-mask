@@ -15,7 +15,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('../assets/images/patterns/pattern-dark.webp');
+  background-image: url('../../src/assets/images/patterns/pattern-dark.webp');
   background-repeat: repeat;
   opacity: 0.05;
   z-index: 1;

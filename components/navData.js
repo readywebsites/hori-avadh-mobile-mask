@@ -9,17 +9,17 @@
 // so the build tool can process them and provide the correct public path.
 
 // Residential Project Images
-import resOngoingRiverside from "../assets/images/resi-ongoing/01-riverside.webp";
-import resOngoingBertina from "../assets/images/resi-ongoing/02-berthina.webp";
-import resCompletedCarolina from "../assets/images/resi-complete/03-carolina.webp";
-import resCompletedRegalia from "../assets/images/resi-complete/04-regelia.webp";
-import resCompletedCopperStone from "../assets/images/resi-complete/02-copperstone.webp";
+import resOngoingRiverside from "../src/assets/images/resi-ongoing/01-riverside.webp";
+import resOngoingBertina from "../src/assets/images/resi-ongoing/02-berthina.webp";
+import resCompletedCarolina from "../src/assets/images/resi-complete/03-carolina.webp";
+import resCompletedRegalia from "../src/assets/images/resi-complete/04-regelia.webp";
+import resCompletedCopperStone from "../src/assets/images/resi-complete/02-copperstone.webp";
 
 // Commercial Project Images
-import comOngoingArkelia from "../assets/images/comm-ongoing/01-arkelia.webp";
-import comOngoingKontina from "../assets/images/comm-ongoing/02-industrial.webp";
-import comCompletedTextile from "../assets/images/comm-complete/02-texttile.webp";
-import comCompletedViceroy from "../assets/images/comm-complete/03-viceroy.webp";
+import comOngoingArkelia from "../src/assets/images/comm-ongoing/01-arkelia.webp";
+import comOngoingKontina from "../src/assets/images/comm-ongoing/02-industrial.webp";
+import comCompletedTextile from "../src/assets/images/comm-complete/02-texttile.webp";
+import comCompletedViceroy from "../src/assets/images/comm-complete/03-viceroy.webp";
 import comCompletedArena from "../src/assets/images/comm-complete/01-arena.webp";
 
 export const navData = [

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import styles from './MobileHeader.module.css';
-import avadhLogo from "../../assets/images/logo/logo_01_trans.png";
+import avadhLogo from "../../src/assets/images/logo/logo_01_trans.png";
 
 const MobileHeader = ({ onMenuClick, isScrolled }) => {
   const [isLoaded, setIsLoaded] = useState(false);
