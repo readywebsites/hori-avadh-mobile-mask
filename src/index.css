@@ -1835,6 +1835,10 @@ textarea.glass-input {
   will-change: transform;
 }
 
+.residential-blur-bg .parallax-img {
+  filter: blur(8px);
+}
+
 .parallax-overlay {
   position: absolute;
   top: 0;

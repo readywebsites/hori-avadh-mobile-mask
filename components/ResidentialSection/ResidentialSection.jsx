@@ -85,6 +85,7 @@ const ResidentialSection = () => {
       chapterNumber="3"
       stickyTitle="Live The Landmark"
       stickySubtitle="Residential Collection"
+      containerClassName="residential-blur-bg"
     >
       <div className="chapter-content">
         <div className="content-wrapper centered">

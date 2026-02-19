@@ -1,6 +1,6 @@
 import { useRef, useEffect } from 'react';
 
-const StickyImageSection = ({ children, imgSrc, imgAlt, chapterId, chapterNumber, stickyTitle, stickySubtitle }) => {
+const StickyImageSection = ({ children, imgSrc, imgAlt, chapterId, chapterNumber, stickyTitle, stickySubtitle, containerClassName }) => {
   const imgRef = useRef(null);
   const chapterRef = useRef(null);
   const stickyTextRef = useRef(null);
@@ -56,7 +56,7 @@ const StickyImageSection = ({ children, imgSrc, imgAlt, chapterId, chapterNumber
   return (
     <div className="sticky-chapter-container">
       <section className="avadh-parallax-wrapper">
-        <div className="sticky-bg">
+        <div className={`sticky-bg ${containerClassName || ''}`}>
           <img ref={imgRef} src={imgSrc} alt={imgAlt} className="parallax-img" loading="lazy" />
           <div className="parallax-overlay"></div>
           {stickyTitle &&
